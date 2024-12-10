@@ -1,10 +1,1 @@
-six
-statsmodels
-brewer2mpl
-matplotlib
-scipy
-patsy>=0.4
-pandas
-cycler
-numpy
 moto==3.1.16
